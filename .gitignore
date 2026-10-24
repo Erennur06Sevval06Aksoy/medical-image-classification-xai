@@ -218,3 +218,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Dataset
+data/raw/
+
+# Trained models
+outputs/models/
+
+# PyTorch models
+*.pt
+*.pth
+*.ckpt
